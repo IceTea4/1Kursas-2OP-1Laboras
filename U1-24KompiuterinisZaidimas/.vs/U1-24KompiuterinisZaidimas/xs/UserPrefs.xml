@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{59E8AED7-BCFF-4CCB-B99D-B988168069D8}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.U1-24KompiuterinisZaidimas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="U1-24KompiuterinisZaidimas/Program.cs">
+    <Files>
+      <File FileName="U1-24KompiuterinisZaidimas/Program.cs" Line="14" Column="34" />
+      <File FileName="Herojus.csv" Line="1" Column="3" />
+      <File FileName="U1-24KompiuterinisZaidimas/Hero.cs" />
+      <File FileName="U1-24KompiuterinisZaidimas/InputOutput.cs" />
+      <File FileName="U1-24KompiuterinisZaidimas/Tasks.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="U1-24KompiuterinisZaidimas" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="U1-24KompiuterinisZaidimas" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
